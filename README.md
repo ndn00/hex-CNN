@@ -8,3 +8,6 @@ Our model file: ./full.h5
 
 Our python notebook (Training and Evaluation): ./deep-cnn.ipynb - Omit the first 2 cells if not running on Google Colab
 
+Acknowledgement: 
+* Hex-AI https://github.com/hi4a4/Hex-AI
+* Gao Chao https://webdocs.cs.ualberta.ca/~hayward/papers/movepredhex.pdf
