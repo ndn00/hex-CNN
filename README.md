@@ -1,4 +1,4 @@
-MATH302 Final Project: Deep CNN for Hex playing
+## MATH302 Final Project: Deep CNN for Hex playing
 
 Duy Nguyen (301379431)
 Khushwant Parmar (301370994)
