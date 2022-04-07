@@ -1,8 +1,8 @@
 ## MATH302 Final Project: Deep CNN for Hex playing
 
-Duy Nguyen (301379431)
-Khushwant Parmar (301370994)
-Stephen Ng (301352700)
+* Duy Nguyen (301379431)
+* Khushwant Parmar (301370994)
+* Stephen Ng (301352700)
 
 Our model file: ./full.h5
 
